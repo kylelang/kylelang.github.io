@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle M. Lang</title>
+    <link>https://www.kylemlang.com/</link>
+    <description>Recent content on Kyle M. Lang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://www.kylemlang.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>https://www.kylemlang.com/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://www.kylemlang.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/teaching/</guid>
+      <description>&lt;p&gt;I teach statistics, data science, and statistical programming at Utrecht
+University. I also give workshops on these subjects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://www.kylemlang.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/research/</guid>
+      <description>&lt;p&gt;I primarily study methods for missing data treatment. I also collaborate
+extensively with social-, behavioral-, and health-scientists.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://www.kylemlang.com/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/development/</guid>
+      <description>&lt;p&gt;A lot of the research and consulting work I do involves intensive statistical
+computing. I also dabble a bit in R development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://www.kylemlang.com/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/consulting/</guid>
+      <description>&lt;p&gt;I offer professional statistical consulting as part of the Department of
+Methodology and Statistics Consultancy program.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.kylemlang.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/about/</guid>
+      <description>Who am I? I am an assistant professor in the Department of Methodology and Statistics at Utrecht University (UU). Although I now live and work in the Netherlands, I was born and raised in the United States. I received my PhD in Quantitative Psychology from the University of Kansas. I then completed a two-year postdoc at Texas Tech University (TTU). My postdoc focused on statistical consulting, and I was able to hone the consulting skills that I began to develop during graduate school.</description>
+    </item>
+    
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>https://www.kylemlang.com/post/vivamus-lacus-mauris/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kylemlang.com/about_bottom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/about_bottom/</guid>
+      <description>I also enjoy (non-outdoor) traveling and taking &amp;ldquo;city trips&amp;rdquo; with my wife and daughter. Such trips are always welcome as they allow me indulge my passion for trying new foods (or simply eating a bunch of those with which I am already familiar). When I&amp;rsquo;m stuck inside and at home, I enjoy weight training, reading (particularly science fiction and adventure), and chess.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kylemlang.com/about_extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/about_extra/</guid>
+      <description>Development Much of my work involves computationally intensive applications of data processing/analysis, so I spend a lot of my time on statistical computing. As a natural byproduct of this work, I dabble in software development, particularly R package development. To find our more, go here.
+Consulting Beginning as early as the final years of my bachelor studies, statistical consultancy has been an integral part of my career. In graduate school, I had the opportunity to work on several interesting projects, and consulting became the focus of my work during my postdoc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kylemlang.com/about_middle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/about_middle/</guid>
+      <description>Development Much of my work involves computationally intensive applications of data processing/analysis, so I spend a lot of my time on statistical computing. As a natural byproduct of this work, I dabble in software development, particularly R package development. To find our more, go here.
+Consulting Beginning as early as the final years of my bachelor studies, statistical consultancy has been an integral part of my career. In graduate school, I had the opportunity to work on several interesting projects, and consulting became the focus of my work during my postdoc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kylemlang.com/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/subheader/</guid>
+      <description>Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise.
+John Tukey (1962)</description>
+    </item>
+    
+    <item>
+      <title>Download HUGO template</title>
+      <link>https://www.kylemlang.com/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kylemlang.com/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+  </channel>
+</rss>
