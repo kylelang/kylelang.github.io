@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional Activities on Kyle M. Lang</title>
-    <link>https://www.kylemlang.com/home/activities/</link>
+    <link>https://www.kylelang.github.io/home/activities/</link>
     <description>Recent content in Professional Activities on Kyle M. Lang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.kylemlang.com/home/activities/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.kylelang.github.io/home/activities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
-      <link>https://www.kylemlang.com/teaching/</link>
+      <link>https://www.kylelang.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kylemlang.com/teaching/</guid>
+      <guid>https://www.kylelang.github.io/teaching/</guid>
       <description>&lt;p&gt;I teach statistics, data science, and statistical programming at Utrecht
 University. I also give workshops on these subjects.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://www.kylemlang.com/research/</link>
+      <link>https://www.kylelang.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kylemlang.com/research/</guid>
+      <guid>https://www.kylelang.github.io/research/</guid>
       <description>&lt;p&gt;I primarily study methods for missing data treatment. I also collaborate
 extensively with social-, behavioral-, and health-scientists.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://www.kylemlang.com/development/</link>
+      <link>https://www.kylelang.github.io/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kylemlang.com/development/</guid>
+      <guid>https://www.kylelang.github.io/development/</guid>
       <description>&lt;p&gt;A lot of the research and consulting work I do involves intensive statistical
 computing. I also dabble a bit in R development.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Consulting</title>
-      <link>https://www.kylemlang.com/consulting/</link>
+      <link>https://www.kylelang.github.io/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kylemlang.com/consulting/</guid>
+      <guid>https://www.kylelang.github.io/consulting/</guid>
       <description>&lt;p&gt;I offer professional statistical consulting as part of the Department of
 Methodology and Statistics Consultancy program.&lt;/p&gt;</description>
     </item>
