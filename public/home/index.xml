@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kyle M. Lang</title>
-    <link>https://kylelang.github.io/home/</link>
+    <link>https://kylelang.github.io/public/home/</link>
     <description>Recent content in Homes on Kyle M. Lang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kylelang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kylelang.github.io/public/home/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

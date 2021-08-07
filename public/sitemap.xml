@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kylelang.github.io/home/downloads/download1/</loc>
+    <loc>https://kylelang.github.io/public/home/downloads/download1/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/activities/</loc>
+    <loc>https://kylelang.github.io/public/home/activities/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/teaching/</loc>
+    <loc>https://kylelang.github.io/public/teaching/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/recentworks/</loc>
+    <loc>https://kylelang.github.io/public/home/recentworks/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/research/</loc>
+    <loc>https://kylelang.github.io/public/research/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/development/</loc>
+    <loc>https://kylelang.github.io/public/development/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/downloads/</loc>
+    <loc>https://kylelang.github.io/public/home/downloads/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/clients/</loc>
+    <loc>https://kylelang.github.io/public/home/clients/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/consulting/</loc>
+    <loc>https://kylelang.github.io/public/consulting/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/about/</loc>
+    <loc>https://kylelang.github.io/public/about/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/</loc>
+    <loc>https://kylelang.github.io/public/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kylelang.github.io/post/</loc>
+    <loc>https://kylelang.github.io/public/post/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kylelang.github.io/post/vivamus-lacus-mauris/</loc>
+    <loc>https://kylelang.github.io/public/post/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kylelang.github.io/about_bottom/</loc>
+    <loc>https://kylelang.github.io/public/about_bottom/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://kylelang.github.io/about_extra/</loc>
+    <loc>https://kylelang.github.io/public/about_extra/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://kylelang.github.io/about_middle/</loc>
+    <loc>https://kylelang.github.io/public/about_middle/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://kylelang.github.io/subheader/</loc>
+    <loc>https://kylelang.github.io/public/subheader/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/categories/</loc>
+    <loc>https://kylelang.github.io/public/categories/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/downloads/download2/</loc>
+    <loc>https://kylelang.github.io/public/home/downloads/download2/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/home/</loc>
+    <loc>https://kylelang.github.io/public/home/</loc>
   </url><url>
-    <loc>https://kylelang.github.io/tags/</loc>
+    <loc>https://kylelang.github.io/public/tags/</loc>
   </url>
 </urlset>
