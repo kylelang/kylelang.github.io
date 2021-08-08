@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle M. Lang</title>
+    <link>https://kylelang.github.io/</link>
+    <description>Recent content on Kyle M. Lang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://kylelang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>https://kylelang.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/teaching/</guid>
+      <description>&lt;p&gt;I teach statistics, data science, and statistical programming at Utrecht
+University. I also give workshops on these subjects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kylelang.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/research/</guid>
+      <description>&lt;p&gt;I primarily study methods for missing data treatment. I also collaborate
+extensively with social-, behavioral-, and health-scientists.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://kylelang.github.io/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/development/</guid>
+      <description>&lt;p&gt;A lot of the research and consulting work I do involves intensive statistical
+computing. I also dabble a bit in R development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://kylelang.github.io/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/consulting/</guid>
+      <description>&lt;p&gt;I offer professional statistical consulting as part of the Department of
+Methodology and Statistics Consultancy program.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kylelang.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/about/</guid>
+      <description>Who am I? I am an assistant professor in the Department of Methodology and Statistics at Utrecht University (UU). Although I now live and work in the Netherlands, I was born and raised in the United States. I received my PhD in Quantitative Psychology from the University of Kansas. I then completed a two-year postdoc at Texas Tech University (TTU). My postdoc focused on statistical consulting, and I was able to hone the consulting skills that I began to develop during graduate school.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kylelang.github.io/about_bottom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/about_bottom/</guid>
+      <description>I also enjoy (non-outdoor) traveling and taking &amp;ldquo;city trips&amp;rdquo; with my wife and daughter. Such trips are always welcome as they allow me indulge my passion for trying new foods (or simply eating a bunch of those with which I am already familiar). When I&amp;rsquo;m stuck inside and at home, I enjoy weight training, reading (particularly science fiction and adventure), and chess.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kylelang.github.io/about_extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/about_extra/</guid>
+      <description>Development Much of my work involves computationally intensive applications of data processing/analysis, so I spend a lot of my time on statistical computing. As a natural byproduct of this work, I dabble in software development, particularly R package development. To find our more, go here.
+Consulting Beginning as early as the final years of my bachelor studies, statistical consultancy has been an integral part of my career. In graduate school, I had the opportunity to work on several interesting projects, and consulting became the focus of my work during my postdoc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kylelang.github.io/about_middle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/about_middle/</guid>
+      <description>Development Much of my work involves computationally intensive applications of data processing/analysis, so I spend a lot of my time on statistical computing. As a natural byproduct of this work, I dabble in software development, particularly R package development. To find our more, go here.
+Consulting Beginning as early as the final years of my bachelor studies, statistical consultancy has been an integral part of my career. In graduate school, I had the opportunity to work on several interesting projects, and consulting became the focus of my work during my postdoc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kylelang.github.io/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylelang.github.io/subheader/</guid>
+      <description>Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise.
+John Tukey (1962)</description>
+    </item>
+    
+  </channel>
+</rss>
